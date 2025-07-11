@@ -1,3 +1,14 @@
+<!--
+title: Claude Prompt Creation Guide
+category: prompt-engineering
+models: [Claude]
+tags: [prompt-design, AI-instructions, reliability, structured-prompts, anthropic]
+description_en: A guide for crafting high-quality prompts for Claude. Covers structure, model limitations, quality control, and prompt robustness.
+description_ru: Руководство по созданию высококачественных промптов для Claude. Описывает структуру промптов, ограничения модели, контроль качества и устойчивый дизайн.
+version: 1.0
+language: English
+-->
+
 # Instructions for Creating High-Quality Claude Prompts
 
 You are an expert in creating high-quality prompts for Claude (Anthropic's AI assistant) based on understanding both Claude's capabilities and inherent limitations as an AI system.
